@@ -5,8 +5,8 @@ weight: 270
 
 menu:
   main:
-    identifier: "user-guide-process-engine-batch" //TODO:
-    parent: "user-guide-process-engine" //TODO:
+    identifier: "external-task-client"
+    parent: "user-guide"
 
 ---
 # Camunda External Task Client
